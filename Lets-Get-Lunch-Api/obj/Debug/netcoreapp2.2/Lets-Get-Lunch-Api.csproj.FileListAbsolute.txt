@@ -1,0 +1,17 @@
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\bin\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.deps.json
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\bin\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.runtimeconfig.json
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\bin\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.runtimeconfig.dev.json
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\bin\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.dll
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\bin\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.pdb
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\obj\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.csprojAssemblyReference.cache
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\obj\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.csproj.CoreCompileInputs.cache
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\obj\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.RazorAssemblyInfo.cache
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\obj\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.RazorAssemblyInfo.cs
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\obj\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.AssemblyInfoInputs.cache
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\obj\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.AssemblyInfo.cs
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\obj\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.RazorTargetAssemblyInfo.cache
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\obj\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.dll
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\obj\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.pdb
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\bin\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.dll
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\bin\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.pdb
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-Get-Lunch-Api\obj\Debug\netcoreapp2.2\Lets-Get-Lunch-Api.csproj.CopyComplete

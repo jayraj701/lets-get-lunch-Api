@@ -1,0 +1,10 @@
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-get-lunch-Infrastructure\bin\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.deps.json
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-get-lunch-Infrastructure\bin\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.dll
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-get-lunch-Infrastructure\obj\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-get-lunch-Infrastructure\obj\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-get-lunch-Infrastructure\obj\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.AssemblyInfo.cs
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-get-lunch-Infrastructure\bin\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.runtimeconfig.json
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-get-lunch-Infrastructure\bin\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.runtimeconfig.dev.json
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-get-lunch-Infrastructure\bin\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.pdb
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-get-lunch-Infrastructure\obj\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.dll
+C:\Users\Jayraj\source\repos\Lets-Get-Lunch-Api\Lets-get-lunch-Infrastructure\obj\Debug\netcoreapp2.2\Lets-get-lunch-Infrastructure.pdb
