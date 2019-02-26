@@ -9,6 +9,9 @@ namespace DataContextLayer.DataContext
 
         public DbSet<Designation> Designations { get; set; }
 
+        public DbSet<User> Users { get; set; }
+
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"data source=.\; initial catalog=TestDB;persist security info=True;Integrated Security=SSPI;");
